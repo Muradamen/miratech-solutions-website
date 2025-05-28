@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,3 +49,7 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# miratech-solutions-website
+Create a modern, responsive single-page website for a tech startup called MiraTech Solutions.
+>>>>>>> 920e4dc4df4a0c39c41557f4b806bf38b183ba45
